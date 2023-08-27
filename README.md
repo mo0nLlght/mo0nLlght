@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @mo0nLlght
 - 👀 I'm interested in everything related to the network and computers
-- 🌱 Now I'm learning Puthon language
+- 🌱 Now I'm learning Python language
 - 💞️Looking for cooperation and help in writing code.
 - 📫 How to contact me. You can always write to me here.
 
